@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mencoba Linear Layout</string>
+    <string name="tv1">LINEAR LAYOUT</string>
+    <string name="buttonSatu">BUTTON 1</string>
+    <string name="buttonDua">BUTTON 2</string>
+    <string name="buttonTiga">BUTTON 3</string>
+    <string name="buttonEmpat">BUTTON 4</string>
+    <string name="tv2">OUTPUT LINEAR LAYOUT</string>
+    <string name="tvRizki">Rizki Nuriman - Pixel 3a API 30</string>
+</resources>
